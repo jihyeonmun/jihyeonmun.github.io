@@ -444,6 +444,7 @@ UNIST 석박통합과정으로 통신 시스템 설계를 위해서 **안테나*
 - [서경덕 "욱일기=나치기, 세계에 알리자"](http://www.xportsnews.com/?ac=article_view&entry_id=1165829)
 ![욱일기](http://image.xportsnews.com/contents/images/upload/article/2019/0906/1567755311784303.jpg)
 
+
 > 제가 구상한 "욱일기=나치기"인식 디자인이 실제 서경식 교수님이 채택하셔서 각종 기사가 올라왔던 경험이 있습니다.
 
 ## Contact
